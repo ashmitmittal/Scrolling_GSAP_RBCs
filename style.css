@@ -6,6 +6,7 @@
 
 body {
 	font-family: sans-serif;
+	background: #2c3335;
 }
 
 .intro {
@@ -40,7 +41,7 @@ section h1 {
 
 section p {
 	font-family: cursive;
-	color: #b83227;
+	color: #ea425c;
 	padding-top: 100px;
 	text-align: center;
 	/* font-size: 20px; */
