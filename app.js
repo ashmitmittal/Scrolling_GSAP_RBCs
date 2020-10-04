@@ -7,7 +7,6 @@ const end = document.querySelector("h1");
 
 var length = window.matchMedia("(max-width: 700px)");
 
-//ELSE - BIG SIZE VIDEO
 
 if (length.matches) {
 	console.log("there was error with mobile view. so i disable video");
